@@ -78,15 +78,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 We welcome contributions to improve the project. To contribute, please fork the repository, create a new branch, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - Thanks to Stability AI for providing the AI model for image generation.
 - Special thanks to the open-source community for their invaluable contributions.
 
----
-
-Feel free to customize this README further to suit your project's needs.
