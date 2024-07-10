@@ -80,6 +80,6 @@ We welcome contributions to improve the project. To contribute, please fork the 
 
 ## Acknowledgements
 
-- Thanks to Stability AI for providing the AI model for image generation.
+- Thanks to Stability AI for providing the AI model for effective image generation.
 - Special thanks to the open-source community for their invaluable contributions.
 
